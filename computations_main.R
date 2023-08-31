@@ -1,4 +1,3 @@
-setwd('~/mc-icp-ms uncertainty')
 library(dplyr)
 library(stringr)
 
